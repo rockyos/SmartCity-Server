@@ -1,0 +1,12 @@
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Common\bin\Debug\net5.0\SmartCity.Common.deps.json
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Common\bin\Debug\net5.0\SmartCity.Common.dll
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Common\bin\Debug\net5.0\ref\SmartCity.Common.dll
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Common\bin\Debug\net5.0\SmartCity.Common.pdb
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Common\obj\Debug\net5.0\SmartCity.Common.csprojAssemblyReference.cache
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Common\obj\Debug\net5.0\SmartCity.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Common\obj\Debug\net5.0\SmartCity.Common.AssemblyInfoInputs.cache
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Common\obj\Debug\net5.0\SmartCity.Common.AssemblyInfo.cs
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Common\obj\Debug\net5.0\SmartCity.Common.csproj.CoreCompileInputs.cache
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Common\obj\Debug\net5.0\SmartCity.Common.dll
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Common\obj\Debug\net5.0\ref\SmartCity.Common.dll
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Common\obj\Debug\net5.0\SmartCity.Common.pdb

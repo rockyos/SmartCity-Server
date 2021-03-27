@@ -1,0 +1,12 @@
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Contracts\bin\Debug\net5.0\SmartCity.Contracts.deps.json
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Contracts\bin\Debug\net5.0\SmartCity.Contracts.dll
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Contracts\bin\Debug\net5.0\ref\SmartCity.Contracts.dll
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Contracts\bin\Debug\net5.0\SmartCity.Contracts.pdb
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Contracts\obj\Debug\net5.0\SmartCity.Contracts.csprojAssemblyReference.cache
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Contracts\obj\Debug\net5.0\SmartCity.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Contracts\obj\Debug\net5.0\SmartCity.Contracts.AssemblyInfoInputs.cache
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Contracts\obj\Debug\net5.0\SmartCity.Contracts.AssemblyInfo.cs
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Contracts\obj\Debug\net5.0\SmartCity.Contracts.csproj.CoreCompileInputs.cache
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Contracts\obj\Debug\net5.0\SmartCity.Contracts.dll
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Contracts\obj\Debug\net5.0\ref\SmartCity.Contracts.dll
+C:\Hackaton\SmartCity\SmartCity\SmartCity.Contracts\obj\Debug\net5.0\SmartCity.Contracts.pdb

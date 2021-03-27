@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SmartCity.Common/1.0.0": {
+        "runtime": {
+          "SmartCity.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartCity.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
